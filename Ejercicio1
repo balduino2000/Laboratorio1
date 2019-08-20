@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+	<TITLE>Sistemas integrado</TITLE>
+</head>
+<body>
+	<h1>Teoria</h1>
+	<p>
+		Un sistema integrado es un controlador con una función dedicada dentro de un sistema mecánico o eléctrico más grande, a menudo con restricciones informáticas en tiempo real. Está integrado como parte de un dispositivo completo que a menudo incluye hardware y partes mecánicas. Los sistemas integrados controlan muchos dispositivos de uso común hoy en día. [3] Noventa y ocho por ciento de todos los microprocesadores fabricados se utilizan en sistemas integrados. <br />
+
+		Para mayor información consulte el sitio oficial de <a href="https://en.wikipedia.org/wiki/Embedded_system">sistema integrado</a
+
+	</p>
+	<p>
+		<h2>Tecnología relacionada</h2>
+		Los sistemas integrados están diseñados para realizar una tarea específica, en lugar de ser una computadora de uso general para múltiples tareas. Algunos también tienen restricciones de rendimiento en tiempo real que deben cumplirse, por razones como la seguridad y la usabilidad; otros pueden tener requisitos de rendimiento bajos o nulos, lo que permite simplificar el hardware del sistema para reducir costos. <br />
+		<img src="DHCOM_Computer_On_Module_-_AM35x.jpg" alt="encontrabilidad" id="encontrabilidad" title="encontrabilidad" width="200" height="200"> 
+		<img src="encontrado.jpg" alt="encontrabilidad" id="encontrabilidad" title="encontrabilidad" width="200" height="200">
+		<img src="encontrado.jpg" alt="encontrabilidad" id="encontrabilidad" title="encontrabilidad" width="200" height="200"
+		alt="encontrabilidad" id="encontrabilidad" title="encontrabilidad" width="200" height="200">
+	</p>
+</body>
+</html>
