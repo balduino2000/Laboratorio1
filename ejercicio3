@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+	<TITLE>Objetive C</TITLE>
+</head>
+<body>
+	<h1>Ambito de la aplicación</h1>
+	<p>
+		*Una característica que diferencie a Objective-C de otros lenguajes (ya no sólo de C++), es su dinamismo, ya que es un lenguaje marcadamente dinámico. Muchas de las decisiones que otros lenguajes toman en tiempo de compilación, Objective-C las toma en tiempo de ejecución.
+		*En Objective-C, a diferencia de C++, los objetos siempre se crean en memoria dinámica.
+		*Los atributos de una clase no tienen por que estar tipificados estáticamente.
+		*Dispone de un gran número de características avanzadas como pueden ser los protocolos, las categorías, extensiones, el Key-Value Coding, el Key-Value Observing, la gestión de memoria y el recolector de basura, la gestión de excepciones.
+
+		<br />
+
+	</p>
+	
+	<table border="1">
+	
+		<tr>
+			<th>Inicio</th>
+			<th>Página 2</th>
+		</tr>
+		</table>
+
+</body>
+</html>
