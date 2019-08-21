@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+	<TITLE>Objetive C</TITLE>
+</head>
+<body>
+	<h1>Historia</h1>
+	<p>
+		A principios de los 80, el software se desarrollaba usando programación estructurada. La programación estructurada se estableció para ayudar a dividir los programas en pequeñas partes, haciendo más fácil el desarrollo cuando la aplicación se volvía muy grande. Sin embargo, como los problemas seguían creciendo al pasar el tiempo, la programación estructurada se volvió compleja dado el desorden de algunos programadores para invocar instrucciones repetitivamente, llevando a código spaghetti y dificultando la reutilización de código.
+
+		Muchos vieron que la programación orientada a objetos sería la solución al problema. De hecho, Smalltalk ya tenía solucionados muchos de estos problemas: algunos de los sistemas más complejos en el mundo funcionaban gracias a Smalltalk. Pero Smalltalk usaba una máquina virtual, lo cual requería mucha memoria para esa época, y era demasiado lento.
+
+		Objective-C fue creado principalmente por Brad Cox y Tom Love a inicios de los 80 en su compañía Stepstone. Ambos fueron iniciados en Smalltalk mientras estaban en el Programming Technology Center de ITT en 1981. Cox se vio interesado en los problemas de reutilización en el desarrollo de software. Se dio cuenta de que un lenguaje como Smalltalk sería imprescindible en la construcción de entornos de desarrollo potentes para los desarrolladores en ITI Corporation. Cox empezó a modificar el compilador de C para agregar algunas de las capacidades de Smalltalk. Pronto tuvo una extensión para añadir la programación orientada a objetos a C la cual llamó «OOPC» (Object-Oriented Programming in C). Love mientras tanto, fue contratado por Shlumberger Research en 1982 y tuvo la oportunidad de adquirir la primera copia de Smalltalk-80, lo que influyó en su estilo como programador.
+
+		Para demostrar que se hizo un progreso real, Cox mostró que para hacer componentes de software verdaderamente intercambiables sólo se necesitaban unos pequeños cambios en las herramientas existentes. Específicamente, estas necesitaban soportar objetos de manera flexible, venir con un conjunto de bibliotecas que fueran utilizables, y permitir que el código (y cualquier recurso necesitado por el código) pudiera ser empaquetado en un formato multiplataforma.
+
+		Cox y Love luego fundaron una nueva empresa, Productivity Products International (PPI), para comercializar su producto, el cual era un compilador de Objective-C con un conjunto de bibliotecas potentes.
+
+		En 1986, Cox publicó la principal descripción de Objective-C en su forma original en el libro Object-Oriented Programming, An Evolutionary Approach. Aunque él fue cuidadoso en resaltar que hay muchos problemas de reutilización que no dependen del lenguaje, Objective-C frecuentemente fue comparado detalladamente con otros lenguajes.<br />
+
+	</p>
+	<p>
+		<h2>Progreso que han hecho los creadores</h2>
+		Las ideas que llevaron a Objective-C se originaron en una división de International Telephone and Telegraph (ITT), donde Tom Love y Brad Cox estaban buscando formas de mejorar la productividad de los programadores. 
+
+		Cox vio enormes ventajas de productividad en un lenguaje como Smalltalk. Se imaginó que les permitiría a él y a Love crear bibliotecas de objetos que podrían mezclarse y combinarse como Legos. 
+
+		Cox y Love se comprometieron a usar UNIX de Bell Labs, un sistema relativamente abierto, con una gran base existente de programas escritos en C. C era un lenguaje que hacía programas rápidos y eficientes. A Cox se le ocurrió la idea de unir las ideas orientadas a objetos de Smalltalk con C y publicó este trabajo en un artículo de 1983, llamándolo Precompilador Orientado a Objetos (OOPC). Cox lo hizo intencionalmente lo más simple posible, considerándolo como una "pistola de soldar" que soldaría la programación orientada a objetos en C. Cox contrasta esto con el nuevo lenguaje C ++ de Bell Labs, que también combina C y programación orientada a objetos, pero de una manera mucho más compleja, que Cox comparó con una planta de fabricación. 
+
+		Después de encontrar resistencia en ITT, y un breve período en Schlumberger, Love and Cox comenzaron su propia compañía para llevar estas ideas al mercado, originalmente llamadas Productivity Products International, y más tarde Stepstone. Cox reescribió el OOPC con un nuevo compilador y renombró el lenguaje Objective-C. Sin embargo, todavía implicaba una traducción del código Objective-C al código C normal. Love especificó algunos aspectos de su diseño, incluida la decisión de convertirlo en un lenguaje híbrido con dos niveles conceptuales, con un código orientado a objetos de nivel superior literalmente separado del código de procedimiento C por caracteres de corchete cuadrado².
+		
+		Con el enfoque de la compañía en vender bibliotecas de objetos escritas usando Objective-C, Cox cambió su enfoque a estas bibliotecas. Stepstone también otorgó la licencia del lenguaje Objective-C a los clientes, muchos de los cuales solicitaron cambios o nuevas características. Cox contrató a un grupo para manejar el desarrollo del lenguaje, y comenzó a agregar características como recolección de basura y un intérprete. Esto estaba en marcha cuando el negocio de bibliotecas de objetos de Stepstone se agotó y la compañía cerró. <br />
+		
+	</p>
+
+	<table border="1">
+	
+		<tr>
+			<th>Inicio</th>
+			<th>Página 2</th>
+		</tr>
+		</table>
+
+</body>
+</html>
